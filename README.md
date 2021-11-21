@@ -10,7 +10,7 @@ DEMO: [`Reas Estate Landing Page`](https://real-estate-landing-page-waveast.netl
 - take a look the package.json file
 
 ## Todo
-- Make more responsive
+- Make more responsive. Especially for navigation menu for small screen
 - Fix bugs
 
 Thank you
