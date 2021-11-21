@@ -2,7 +2,7 @@
 
 This work is challange from my Discord community, Weavest. The challange is to slice UI design [`Figma`](https://www.figma.com/file/5gvU6pq2mwhmThrlzKbJxu/Real-Estate-Landing-Page-(Web-only)-for-Public?node-id=0%3A1) file design by [`Veeuix`](https://twitter.com/veeuix)
 
-DEMO: [`Reas Estate Landing Page`](#)
+DEMO: [`Reas Estate Landing Page`](https://real-estate-landing-page-waveast.netlify.app/)
 
 ## Tools
 - SvelteKit from Svelte
@@ -11,5 +11,6 @@ DEMO: [`Reas Estate Landing Page`](#)
 
 ## Todo
 - Make more responsive
+- Fix bugs
 
 Thank you
