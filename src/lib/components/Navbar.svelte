@@ -85,7 +85,4 @@
 	.burger-btn i:last-of-type {
 		width: 90%;
 	}
-	.bc {
-		border: 1px solid red;
-	}
 </style>
