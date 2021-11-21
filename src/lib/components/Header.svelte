@@ -24,7 +24,7 @@
 </script>
 
 <header class="overflow-hidden mb-0 bg-gray-300 relative flex flex-col lg:block">
-	<div class="bc bg absolute right-0 bottom-0 flex justify-end">
+	<div class="bg absolute right-0 bottom-0 flex justify-end">
 		<img class="pt-4 md:w-8/12 lg:w-full" src="/img/bg-header.png" alt="Mask Group" />
 	</div>
 	<p
@@ -33,7 +33,7 @@
 		Find Your dream House and Get Your Dream Space
 	</p>
 	<p
-		class="bc service z-10 mx-auto mt-8 md:mt-0 xl:mt-16 lg:my-8 lg:mx-0 sm:w-11/12 d:w-1/2 p-8 md:p-0 sm:p-4 lg:pl-24 text-lg lg:text-xl font-normal bg-white bg-opacity-30 backdrop-blur-md md:bg-transparent md:bg-opacity-0 md:backdrop-blur-0"
+		class="service z-10 mx-auto mt-8 md:mt-0 xl:mt-16 lg:my-8 lg:mx-0 sm:w-11/12 d:w-1/2 p-8 md:p-0 sm:p-4 lg:pl-24 text-lg lg:text-xl font-normal bg-white bg-opacity-30 backdrop-blur-md md:bg-transparent md:bg-opacity-0 md:backdrop-blur-0"
 	>
 		We provide the best service for your need to stay in comfortably place just in one time click
 	</p>
@@ -133,8 +133,5 @@
 		.bg {
 			max-width: 540px;
 		}
-	}
-	.bc {
-		border: 1px solid red;
 	}
 </style>
